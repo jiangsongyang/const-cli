@@ -1,0 +1,12 @@
+node_modules
+lib
+templates
+*.md
+*.woff
+*.ttf
+.vscode
+.idea
+dist
+/public
+.husky
+*.d.ts
